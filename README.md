@@ -1,7 +1,7 @@
 <div align="center">
 
-# Hey there! I'm Carl Vincent 👋
-### Backend Developer | Laravel & Node.js Enthusiast | AI Tinkerer 🤖
+# Hey there! I'm Calvin
+### Software Developer 
 
 *"Code is like humor. When you have to explain it, it's bad." — but I'll explain mine anyway.*
 
