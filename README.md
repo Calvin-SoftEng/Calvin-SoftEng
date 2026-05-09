@@ -7,7 +7,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Calvin--SoftEng-181717?style=for-the-badge&logo=github)](https://github.com/Calvin-SoftEng)
 [![Email](https://img.shields.io/badge/Email-calvinsoriano400@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvinsoriano400@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Baras,%20Rizal,%20PH-blue?style=for-the-badge)](https://maps.google.com/?q=Baras,Rizal)
 
 </div>
 
@@ -21,7 +20,6 @@ I'm an aspiring backend developer from the University of Rizal System — Binang
 - 💼 **Backend Dev Intern** @ Bappleware (Feb – Apr 2026)
 - 🏆 **Start Up Champion** — CCS Start Up Challenge 2025
 - 🎓 **NC II in Computer System Servicing** — TESDA, November 2025
-- 📍 Based in **Baras, Rizal, PH**
 
 ---
 
