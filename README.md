@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Who am I?
 
-I'm an aspiring backend developer from the University of Rizal System — Binangonan, currently leveling up my craft one API endpoint at a time. I love building things that actually *run in production* (yes, really 🚀), tinkering with AI integrations, and turning ideas into working software.
+I'm an aspiring software developer currently leveling up my craft one API endpoint at a time. I love building things that actually run in production (yes, really 🚀), exploring AI integrations, and turning ideas into working software.
 
 - 🏫 **BS Information Technology** @ URS Binangonan (2022 – Present)
 - 💼 **Backend Dev Intern** @ Bappleware (Feb – Apr 2026)
