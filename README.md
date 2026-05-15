@@ -10,19 +10,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 Who am I?
-
-I'm an aspiring software developer currently leveling up my craft one API endpoint at a time. I love building things that actually run in production (yes, really 🚀), exploring AI integrations, and turning ideas into working software.
-
-- 🏫 **BS Information Technology** @ URS Binangonan (2022 – Present)
-- 💼 **Backend Dev Intern** @ Bappleware (Feb – Apr 2026)
-- 🏆 **Start Up Champion** — CCS Start Up Challenge 2025
-- 🎓 **NC II in Computer System Servicing** — TESDA, November 2025
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -49,59 +36,6 @@ I'm an aspiring software developer currently leveling up my craft one API endpoi
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🎓 Scholarship Management System
-> **PHP / Laravel / MySQL**
-
-A full web app for managing scholarship applications end-to-end — eligibility checks, application tracking, and status updates, all powered by Laravel's MVC magic.
-
----
-
-### 📅 Booking System
-> **PHP / Laravel / MySQL**
-
-A reservation system with solid backend routing, user authentication, and database management baked right in. No double bookings on my watch. 🗓️
-
----
-
-### 🦷 Dental Clinic Management System
-> **Visual Basic / Desktop**
-
-A desktop app for managing patient records and appointments with a clean local database structure. Old school tech, but it works!
-
----
-
-## 💼 Experience
-
-**Backend Developer Intern @ Bappelare** *(Feb 2026 – Apr 2026)*
-- 🔧 Built and deployed **RESTful API endpoints** using Express.js — currently running in **production**
-- 🤖 Integrated **Gemini via Ollama** for local LLM inference to power an AI recommendation feature
-- 🧠 Engineered backend logic for AI prompt handling, response parsing, and data integration
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calvin-SoftEng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calvin-SoftEng&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Currently...
-
-- 📚 Deepening my knowledge in **backend architecture & system design**
-- 🤖 Exploring more **AI integrations** and LLM-powered applications
-- 🏗️ Building projects that solve real problems
-- 🔍 Open to **opportunities** where I can learn, grow, and contribute
 
 ---
 
