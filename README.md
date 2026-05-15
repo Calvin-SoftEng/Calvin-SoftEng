@@ -38,20 +38,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-## 🤝 Let's Connect!
-
-Got an interesting project? Want to collaborate? Or just want to talk about backend stuff?
-
-**📧 calvinsoriano400@gmail.com**
-**🐙 [github.com/Calvin-SoftEng](https://github.com/Calvin-SoftEng)**
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* ⚡
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Calvin-SoftEng&color=blueviolet&style=flat-square)
-
-</div>
